@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/caerus-dev/caerus-protos
+lint:
+  use:
+    - DEFAULT
+breaking:
+  use:
+    - FILE
